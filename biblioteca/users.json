@@ -1,29 +1,9 @@
 {
   "1": {
     "login": "gabriela4342",
-    "password": "osmar2013",
+    "password": "senhakkk",
     "name": "Gabriel",
     "age": 17,
     "favgen": "Music"
-  },
-  "2": {
-    "login": "lucas2023",
-    "password": "2013osmar",
-    "name": "Lucasgalina",
-    "age": 20,
-    "favgen": [],
-    "books": []
-  },
-  "3": {
-    "login": "barcelos123",
-    "password": "barcelos2024",
-    "name": "Gabriel Luiz Barcelos",
-    "age": 18,
-    "favgen": [
-      "Ficcao",
-      "Terror",
-      "Aventura"
-    ],
-    "books": []
   }
 }

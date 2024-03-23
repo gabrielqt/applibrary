@@ -101,7 +101,7 @@ def genres():
             
 def create_user(login,password,name,age,favgen):
     userid = genid()
-    userdata[userid] = {'login': login, 'password': password, 'name': name, 'age': age, 'favgen': favgen, 'books' : [] }
+    userdata[userid] = {'login': login, 'password': password, 'name': name, 'age': age, 'favgen': favgen}
     save_userdata(userdata)
 
         
